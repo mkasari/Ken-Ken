@@ -1,6 +1,7 @@
 # Ken-Ken
 Group Project for COMP 560. 
-Completed with Andrew Jacober and Sarah Hand using Python. 
+Completed with Andrew Jacober and Sarah Hand.
+
 The code has been provided in python, and can be run in terminal or powershell depending on what OS you are using.
 
 The code requires an additional input of a filename with extention .txt in order to run correctly.
